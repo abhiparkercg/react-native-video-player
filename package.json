@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "react-native-video-player",
   "version": "0.16.2",
   "description": "A <VideoPlayer /> component for React Native with controls",
